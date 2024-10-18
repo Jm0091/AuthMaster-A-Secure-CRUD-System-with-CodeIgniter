@@ -1,4 +1,4 @@
-# AuthMaster- A Secure CRUD System with CodeIgniter 🚀
+# AuthMaster - A Secure CRUD System with CodeIgniter 🚀
 
 🔧 Built using **CodeIgniter | Custom Libraries | PHP**
 </br>This project demonstrates a fully functional CRUD (Create, Read, Update, Delete) application with user authentication, leveraging CodeIgniter's lightweight PHP framework. Designed to handle everything from user login and account management to role-based access controls (ACL).
